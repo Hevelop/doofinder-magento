@@ -1,0 +1,10 @@
+app/code/community/Doofinder/Feed                                                           app/code/community/Doofinder/Feed
+app/design/adminhtml/default/default/layout/doofinder.xml                                   app/design/adminhtml/default/default/layout/doofinder.xml
+app/design/frontend/base/default/layout/doofinder.xml                                       app/design/frontend/base/default/layout/doofinder.xml
+app/design/frontend/base/default/template/doofinder/feed                                    app/design/frontend/base/default/template/doofinder/feed
+app/etc/modules/Doofinder_Feed.xml                                                          app/etc/modules/Doofinder_Feed.xml
+js/doofinder/admin.js                                                                       js/doofinder/admin.js
+js/doofinder/banner.js                                                                      js/doofinder/banner.js
+lib/php-doofinder                                                                           lib/php-doofinder
+skin/adminhtml/default/default/doofinder/styles.css                                         skin/adminhtml/default/default/doofinder/styles.css
+skin/frontend/base/default/css/doofinder/banner.css                                         skin/frontend/base/default/css/doofinder/banner.css
